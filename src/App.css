@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  color: #ffffff;
+  overflow-x: hidden;
+  
+}
+
+.app {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* Адаптация для мобильных устройств */
+@media (max-width: 768px) {
+  .app {
+    padding: 10px;
+  }
+
+  .header {
+    margin: 10px;
+    padding: 15px;
+  }
+
+  .skills {
+    width: 100%;
+    margin-top: 20px;
+    background: rgba(0, 0, 0, 0.9); /* Более темный фон для мобильных */
+  }
+
+  .skills-grid {
+    grid-template-columns: 1fr; /* Одна колонка на мобильных */
+  }
+
+  .social-links {
+    flex-direction: column; /* Ссылки в столбик на мобильных */
+    gap: 10px;
+  }
+}
+
+/* Адаптация для ПК */
+@media (min-width: 769px) {
+  .header {
+    max-width: 800px;
+    margin: 20px auto;
+  }
+
+  .skills {
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto;
+  }
+
+  .social-links {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}

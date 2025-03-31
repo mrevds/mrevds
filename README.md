@@ -18,8 +18,9 @@
 
 ### 📊 GitHub Статистика:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denis&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denis&theme=github_dark" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=denis&theme=github_dark" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=denis&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 ---

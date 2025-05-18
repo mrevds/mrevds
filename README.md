@@ -7,32 +7,28 @@
 
 ---
 
-## 🚀 Мой стек
+### 🚀 Мой стек
 
-<table>
-  <tr>
-    <td><strong>💻 Backend</strong></td>
-    <td>Go (Gorilla Mux, GORM, WebSockets)</td>
-  </tr>
-  <tr>
-    <td><strong>🗄️ Базы данных</strong></td>
-    <td>PostgreSQL, MongoDB</td>
-  </tr>
-  <tr>
-    <td><strong>🎨 Frontend</strong></td>
-    <td>React (базовый уровень)</td>
-  </tr>
-  <tr>
-    <td><strong>🔧 Другое</strong></td>
-    <td>REST API, Git, JWT, WebSockets</td>
-  </tr>
-</table>
+| 💻 Backend | Go (Gorilla Mux, GORM, WebSockets) |
+|-----------|-------------------------------------|
+| 🗄️ БД     | PostgreSQL, MongoDB                |
+| 🎨 Frontend | React (базовый уровень)            |
+| 🔧 Другое  | REST API, Git, JWT, WebSockets     |
 
 ---
 
-## 📫 Контакты
+### 📊 GitHub Stats
 
-<p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrevds&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrevds&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🌐 Контакты
+
+<p align="center">
   <a href="https://t.me/mrevds">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -43,5 +39,9 @@
 
 ---
 
-> 🎯 Я открыт к новым знакомствам, проектам и возможностям!  
-> Готов развиваться, учиться и вносить вклад в крутые продукты.
+### ✨ Немного обо мне
+
+> 🎯 Хочу стать сильным backend-инженером.  
+> 🚀 Мечтаю попасть в крупную IT-компанию и вывести проекты на высокий уровень.  
+> 📚 Постоянно учусь: сейчас изучаю Go, gRPC и архитектуру микросервисов.  
+> 💬 Всегда открыт к сотрудничеству и новым идеям!

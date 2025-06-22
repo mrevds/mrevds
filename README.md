@@ -1,7 +1,7 @@
-<h1 align="center">👋 Привет! Я — Денис</h1>
+<h1 align="center">Привет! Я — Денис</h1>
 
 <p align="center">
-  🧠 Junior Go-разработчик из Узбекистана — мне 21 год.<br/>
+  Go-разработчик из Узбекистана — мне 22 года.<br/>
   Пишу backend-системы на Go, умею работать с базами данных и немного дружу с фронтом на React.
 </p>
 
@@ -9,7 +9,7 @@
 
 ### 🚀 Мой стек
 
-| 💻 Backend | Go (Gorilla Mux, GORM, WebSockets) |
+| 💻 Backend | Go (Gorilla Mux,GIN, GORM, WebSockets) |
 |-----------|-------------------------------------|
 | 🗄️ БД     | PostgreSQL, MongoDB                |
 | 🎨 Frontend | React (базовый уровень)            |

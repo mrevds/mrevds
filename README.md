@@ -20,7 +20,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrevds&layout=compact&theme=tokyonight&exclude_repo=marketr,sarvar,cryptoedu,mrevds.tomine,swipe" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrevds&layout=compact&theme=tokyonight&exclude_repo=marketr,sarvar,cryptoedu,mrevds.tomine,swipe,drsocial" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrevds&layout=compact&theme=tokyonight" height="150"/>
 </p>
 

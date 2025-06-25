@@ -1,54 +1,39 @@
-<h1 align="center">🔥 Я — Денис. Go-разработчик с пылающим мотором.</h1>
+<h1 align="center"><img src="https://media.tenor.com/TObgWOLyTwAAAAAC/anime-eyes.gif" width="30"/> Денис — Backend Fighter</h1>
 
 <p align="center">
-  🗡️ Из Нукуса в сердце IT-битвы. Мне 22, и я не просто кодер — я создатель.<br/>
-  Пишу backend-системы на Go. Мечтаю прорваться в топ и стать легендой.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Go%20Developer&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/ILkdA7T.png" width="150"/>
 </p>
 
 ---
 
-### 🧪 Мой боевой арсенал
+### 🔥 Мой стек
 
-| ⚔️ Backend | Go (Gin, Gorilla Mux, GORM, WebSockets) |
-|-----------|------------------------------------------|
-| 🧠 Базы   | PostgreSQL, MongoDB                      |
-| 🌀 Front  | React (уровень — «чтобы не мешал backend'у») |
-| 🛡️ Навыки | REST API, Git, JWT, WebSockets           |
+| 💻 Backend | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) Gin / GORM / WebSockets |
+|-----------|---------------------------------------------------------|
+| 🗄️ Базы   | PostgreSQL / MongoDB                                   |
+| ⚙️ Инструменты | REST / JWT / Git / Docker (в процессе)            |
+| 🎨 UI     | React (базовый уровень)                                |
 
 ---
 
-### 💥 Статистика моих тренировок
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrevds&layout=compact&theme=tokyonight&exclude_repo=marketr,sarvar,cryptoedu,mrevds.tomine,swipe,drsocial" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrevds&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrevds&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-### 📡 Связь с героем
+### 🧠 Цели и прокачка
 
-<p align="center">
-  <a href="https://t.me/mrevds">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/mrevds">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🧭 Кто я и почему не остановлюсь
-
-> 🕶️ Я не вундеркинд. Я просто отказался быть обычным.  
-> 🎯 Хочу стать Go-разработчиком, которого зовут, когда нужен **результат.**  
-> 🏁 Моя цель — стажировка в Яндекс и пет-проект, который взрывает мозги.  
-> 🚧 Сейчас — ежедневный grind: Go, gRPC, архитектура, SQL, Docker.  
-> 🐺 Уровень: «одиночка в тренировочном лагере».  
-> 👊 Готов к бою. Не за лайки. За уважение и выживание.
-
----
-
-<p align="center">
-  <em>「Нет второго шанса. Есть только следующий коммит.」</em>
-</p>
+```diff
++ [x] Пройти курс по Go до горутин
++ [x] Начать решать задачи на Leetcode (HashMap / Arrays)
+- [ ] Сделать боевой pet-проект на Go
+- [ ] Изучить Docker и gRPC
+- [ ] Попасть на стажировку в Яндекс (осень 2025)

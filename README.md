@@ -13,10 +13,15 @@ Strong interest in clean architecture, algorithms, and database design.
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrevds&show_icons=true&theme=default&hide_border=true&count_private=true)
+## GitHub Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrevds&show_icons=true&theme=default&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrevds&layout=compact&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrevds&layout=compact&hide_border=true)
+---
+
+## Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=mrevds&theme=default&hide_border=true)  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrevds&hide_border=true&theme=github-light)
 
 ---
 

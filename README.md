@@ -1,21 +1,24 @@
 # Denis — Backend Developer (Go)
 
-**Backend developer** with a focus on **Go**, building efficient, maintainable, and scalable systems.  
-Passionate about clean architecture, algorithms, and database design.
+Backend developer specializing in **Go**, focused on building efficient, maintainable, and scalable systems.  
+Strong interest in clean architecture, algorithms, and database design.
+
+---
 
 ## Tech Stack
-- **Languages:** Go, SQL
-- **Frameworks & Tools:** Gin, Gorilla, Docker(Basic), REST API, Postman
-- **Databases:** PostgreSQL, Redis
-- **Other:** Git, Linux, Unit Testing, Basic CI/CD, Kafka
+**Languages:** Go • SQL  
+**Frameworks & Tools:** Gin • Gorilla • Docker (Basic) • REST API • Postman  
+**Databases:** PostgreSQL • Redis  
+**Other:** Git • Linux • Unit Testing • Basic CI/CD • Kafka  
 
-## Current Focus
-- Advanced Go concepts: concurrency, profiling, optimization
-- Data structures and algorithms
-- System design fundamentals
-- Building production-grade backend projects
+---
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrevds&show_icons=true&theme=default&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrevds&layout=compact&hide_border=true)
 
-📫 **Contact:**  
-[LinkedIn](https://www.linkedin.com/in/mrevds/) • [Telegram](t.me/mrevds)
+---
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/mrevds/) | [Telegram](https://t.me/mrevds)

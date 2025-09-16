@@ -7,7 +7,7 @@ Passionate about clean architecture, algorithms, and database design.
 - **Languages:** Go, SQL
 - **Frameworks & Tools:** Gin, Gorilla, Docker(Basic), REST API, Postman
 - **Databases:** PostgreSQL, Redis
-- **Other:** Git, Linux, Unit Testing, Basic CI/CD, Kafka
+- **Other:** Git, Linux, Unit Testing
 
 ## Current Focus
 - Advanced Go concepts: concurrency, profiling, optimization

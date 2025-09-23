@@ -21,5 +21,5 @@
   <img src="https://img.icons8.com/ios-filled/50/network.png" alt="Microservices" width="40" height="40"/>
   <img src="https://imgs.search.brave.com/yOSt1IUNMWsJDe7RqzvojGfUAniWTpWL7GUgqrQz5FA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zaW5n/bGV0LmRldi93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8wOC9j/aWNkLWxvZ28ucG5n" alt="CI/CD" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/test-tube.png" alt="Unit Testing" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-gin-a-http-web-framework-written-in-go-logo-color-tal-revivo.png" alt="Gin" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/I4R-hqLMsmHq29QtifLBnTmRJk49db7YJBHJv7WWdaM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naW4t/Z29uaWMuY29tL19h/c3Ryby9naW4uRDZI/MlRfMnZfWkQyRzds/LndlYnA" alt="Gin" width="40" height="40"/>
 </p>

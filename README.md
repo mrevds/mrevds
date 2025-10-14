@@ -17,7 +17,7 @@
 
 <p align="left">
   <!-- Extras -->
-  <img src="https://img.icons8.com/external-outline-juicy-fish/60/000000/external-api-coding-and-development-outline-outline-juicy-fish.png" alt="gRPC" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/NHqj6TRePO_nVHIHJwenenSzw8UD93TLRZfkHqQvHLA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LnN2Z2Nkbi5jb20v/ZC9ncnBjLW9yaWdp/bmFsLTh4LnBuZw" alt="gRPC" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/network.png" alt="Microservices" width="40" height="40"/>
   <img src="https://imgs.search.brave.com/yOSt1IUNMWsJDe7RqzvojGfUAniWTpWL7GUgqrQz5FA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zaW5n/bGV0LmRldi93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8wOC9j/aWNkLWxvZ28ucG5n" alt="CI/CD" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/test-tube.png" alt="Unit Testing" width="40" height="40"/>

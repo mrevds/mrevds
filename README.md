@@ -1,27 +1,31 @@
-## Backend Developer — Go  
+# Backend Developer — Go
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mrevds/) • [Telegram](https://t.me/mrevds)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrevds/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrevds)
 
-### Tech Stack  
+## 📊 Coding Stats
 
-<p align="left">
-  <!-- Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<p align="left">
-  <!-- Extras -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
-  <img src="https://imgs.search.brave.com/MlKMcP9k3xMS5DE6LPmoRMQh879_X6v9xPKpzSE4P3I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LnN2Z2Nkbi5jb20v/bG9nb3MvZ3JwYy5w/bmc" alt="gRPC" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/network.png" alt="Microservices" width="40" height="40"/>
-  <img src="https://imgs.search.brave.com/yOSt1IUNMWsJDe7RqzvojGfUAniWTpWL7GUgqrQz5FA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zaW5n/bGV0LmRldi93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8wOC9j/aWNkLWxvZ28ucG5n" alt="CI/CD" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/test-tube.png" alt="Unit Testing" width="40" height="40"/>
-  <img src="https://imgs.search.brave.com/I4R-hqLMsmHq29QtifLBnTmRJk49db7YJBHJv7WWdaM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naW4t/Z29uaWMuY29tL19h/c3Ryby9naW4uRDZI/MlRfMnZfWkQyRzds/LndlYnA" alt="Gin" width="40" height="40"/>
-</p>
+## 🛠 Tech Stack
+
+**Core:**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Additional:**
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=micro&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Learning:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

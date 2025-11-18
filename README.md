@@ -3,18 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrevds/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrevds)
 
-## 📊 Coding Stats
-
 <!--START_SECTION:waka-->
-
-```txt
-Go           4 hrs 59 mins   █████████████████████▓░░░   86.31 %
-TypeScript   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-YAML         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-```
-
 <!--END_SECTION:waka-->
 
 ## 🛠 Tech Stack

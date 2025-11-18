@@ -14,6 +14,20 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_TOTAL: "true"           # Показать общее время
-          TIME_RANGE: "all_time"    # Можно: last_7_days, last_30_days, last_6_months, last_year, all_time
-          SHOW_TITLE: "true"           # Показать заголовок
+      
+          SHOW_TOTAL: "true"
+          TIME_RANGE: "all_time"
+          SHOW_TITLE: "false"
+      
+          SHOW_TIME: "true"
+          SHOW_LANGUAGE: "true"
+          SHOW_LANGUAGE_PER: "true"
+          SHOW_BAR: "true"
+          SHOW_EDITORS: "true"
+          SHOW_OS: "true"
+          SHOW_PROJECTS: "false"
+      
+          TITLE_PREFIX: "🔥 WakaTime Stats —"
+          TITLE_SUFFIX: "⚡"
+          BLOCKS: "█▓▒░"
+          COMMIT_MESSAGE: "chore: update waka stats ✨"

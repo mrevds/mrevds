@@ -4,6 +4,19 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrevds)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 24 January 2024 - To: 17 November 2025
+
+Total Time: 48 hrs 57 mins
+
+Go                37 hrs 53 mins  ███████████████████▒░░░░░   77.35 %
+TypeScript        1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Protocol Buffer   1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+YAML              1 hr 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+SQL               1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🛠 Tech Stack

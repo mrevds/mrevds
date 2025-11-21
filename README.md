@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 52 hrs 51 mins
+Total Time: 57 hrs 38 mins
 
-Go                41 hrs 17 mins  ░░░░░░░░░░░░░░░░░░░▒█████   78.04 %
-TypeScript        1 hr 42 mins    ▒████████████████████████   03.24 %
-Protocol Buffer   1 hr 34 mins    ▒████████████████████████   02.99 %
-YAML              1 hr 24 mins    ▒████████████████████████   02.66 %
-SQL               1 hr 18 mins    ▒████████████████████████   02.46 %
+Go                41 hrs 17 mins  ░░░░░░░░░░░░░░░░░░███████   71.57 %
+PHP               4 hrs 47 mins   ░░███████████████████████   08.29 %
+TypeScript        1 hr 42 mins    ▒████████████████████████   02.97 %
+Protocol Buffer   1 hr 34 mins    ▒████████████████████████   02.74 %
+YAML              1 hr 24 mins    ▒████████████████████████   02.44 %
 ```
 
 <!--END_SECTION:waka-->

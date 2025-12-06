@@ -4,19 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrevds)
 
 [![wakatime](https://wakatime.com/badge/user/018d41a0-8f57-4f17-aa8a-d8005b5776d0.svg)](https://wakatime.com/@018d41a0-8f57-4f17-aa8a-d8005b5776d0)
-<!--START_SECTION:waka-->
 
-```txt
-Total Time: 119 hrs 32 mins
-
-PHP                        44 hrs 21 mins  ░░░░░░░░░▓███████████████   37.07 %
-Go                         41 hrs 17 mins  ░░░░░░░░▒████████████████   34.52 %
-TypeScript                 13 hrs 24 mins  ░░▒██████████████████████   11.20 %
-Markdown                   2 hrs 54 mins   ▒████████████████████████   02.43 %
-Bash                       2 hrs 16 mins   ▓████████████████████████   01.90 %
-```
-
-<!--END_SECTION:waka-->
 
 
 ## 🛠 Tech Stack

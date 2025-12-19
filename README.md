@@ -5,12 +5,15 @@
 
 [![wakatime](https://wakatime.com/badge/user/018d41a0-8f57-4f17-aa8a-d8005b5776d0.svg)](https://wakatime.com/@018d41a0-8f57-4f17-aa8a-d8005b5776d0)
 
+![Profile Views](https://komarev.com/ghpvc/?username=mrevds&color=brightgreen&style=for-the-badge)
 
 
 ## 🛠 Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
